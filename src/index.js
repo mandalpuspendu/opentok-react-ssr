@@ -1,9 +1,9 @@
-import OTSession from './OTSession';
-import OTPublisher from './OTPublisher';
-import OTStreams from './OTStreams';
-import OTSubscriber from './OTSubscriber';
-import createSession from './createSession';
-import preloadScript from './preloadScript';
+import OTSession from "./OTSession";
+import OTPublisher from "./OTPublisher";
+import OTStreams from "./OTStreams";
+import OTSubscriber from "./OTSubscriber";
+import createSession from "./createSession";
+// import preloadScript from './preloadScript';
 
 export default {
   OTSession,
@@ -11,7 +11,7 @@ export default {
   OTStreams,
   OTSubscriber,
   createSession,
-  preloadScript,
+  // preloadScript,
 };
 
 export {
@@ -20,5 +20,5 @@ export {
   OTStreams,
   OTSubscriber,
   createSession,
-  preloadScript,
+  // preloadScript,
 };
